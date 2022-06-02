@@ -1,0 +1,5 @@
+O Unix é o pai dos sistemas operacionais, Linux e MacOS. Ambos utilizam terminal.
+
+O Kernel é o que liga o hardware ao software da sua maquina. Assim que o computador é ligado ele analisa e gerencia tudo 
+
+O Shell conecta o sistema operacional a você e ao Kernel. Ele é responsável por ler e interpretar linhas de códigos e executar o comando. Existem vários tipos de Shell.
