@@ -5,6 +5,10 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
-nodejs
-shell
-github
+- VsCode
+- Zsh
+- Oh my Zsh!
+- nodejs
+- shell
+- github
+
